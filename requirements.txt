@@ -1,0 +1,16 @@
+torch
+torchaudio
+scipy
+numpy
+pandas
+tqdm
+jiwer
+phonemizer
+transformers
+supertonic
+omnivoice
+modelscope
+atomgit
+omnilingual-asr 
+multiprocess<=0.70.16 
+datasets<3.0
